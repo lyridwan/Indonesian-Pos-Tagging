@@ -28,8 +28,7 @@ This Corpus is licensed under the Creative Commons Attribution-NonCommercial-Sha
 	print(tagger.tag("saya pergi ke pasar".split()))
 	```
 ## Screenshot ##
-Output:
-	[alt text](https://s1.postimg.org/2xeoni799b/image.png "Input")  
+[![Capture.png](https://s5.postimg.org/l0m73dxjr/Capture.png)](https://postimg.org/image/52dhd93bn/)
 
 ## Credits ##
 
